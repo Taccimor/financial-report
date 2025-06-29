@@ -75,7 +75,7 @@ Select the code you see (you can use `CTRL + A`)
 
 ![](media/Select_all.png)
 
-Paste the content of the file financial-report you find above (if you click on it, you will open it and you can copy the content), then configure this section (the text after `//` explains them. You only have to paste the link and change the number if needed)
+Paste the content of the file `financial-report.ts` you find above (if you click on it, you will open it and you can copy the content), then configure this section (the text after `//` explains them. You only have to paste the link and change the number if needed)
 
 ![](media/configure.png)
 
