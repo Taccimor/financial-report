@@ -1,6 +1,6 @@
 # Automate cataloguing of receipts for a financial report
 ## Why?
-If you make financial reports you know how much time-consuming it is to retrieve all the related files and put them in order. If you make financial reports you are also keeping track of all the expenditures of one or more projects in a spreadsheet like a ledger book. This script can read your spreadsheet and organize all the files by progressive number and budget line.
+If you make financial reports you know how much time-consuming it is to retrieve all the related files and put them in order. If you make financial reports you are also keeping track of all the expenditures of one or more projects in a spreadsheet like a ledger book. I created a script that can read your spreadsheet and organize all the files by progressive number and budget line.
 ## Requirements
 1. Your spreadsheet must be in Google Sheet format and hosted in your Drive. You can convert an .xlsx file in google sheet format, check this screenshot:
 
