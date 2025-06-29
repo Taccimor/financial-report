@@ -112,6 +112,7 @@ The script will start doing its job. It can take several minutes. You can read w
 ![](media/running.png)
 
 Wait until the process is complete. A message saying `Financial report is now ready!` will show up in the window below.
+
 ![](media/complete.png)
 
 Now the script will remain permanently connected to your spreadsheet. This means that the next time you'll need this you only have to go to `Extensions > Apps Script`, click on `runThis` and then `Run the selected function`.
