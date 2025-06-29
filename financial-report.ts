@@ -5,7 +5,7 @@ function downloadFiles() {
   const data = sheet.getDataRange().getValues();
   
   // ===== CONFIGURATION =====
-  const ROOT_FOLDER_URL = "URL OF YOUR FOLDER"; // Replace with the URL of the folder where the files will be copied
+  const ROOT_FOLDER_URL = "URL OF YOUR FOLDER"; // Replace with the URL of the folder where the files will be copied. Keep the " "
   const START_ROW = 2; // Set starting row number here. Be careful! It's the number of the row, not the number of the expenditure!
   const folderNameCol = 0; // Column that contains the name of the folders (i.e. the progressive number, usually). 0 = A, 1 = B, and so on...
   const parentFolderCol = 3; // Column that contains the budget line code. 0 = A, 1 = B, and so on...
